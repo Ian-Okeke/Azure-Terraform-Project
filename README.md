@@ -1,5 +1,7 @@
 # Azure Terraform Platform
 
+[![Terraform CI/CD](https://github.com/Ian-Okeke/Azure-Terraform-Project/actions/workflows/terraform.yml/badge.svg)](https://github.com/YOUR-USERNAME/REPO-NAME/actions/workflows/terraform.yml)
+
 Enterprise-style Terraform modules for Azure infrastructure provisioning.
 
 ## Overview
