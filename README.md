@@ -54,8 +54,8 @@ terraform apply
 - Infrastructure-as-Code best practices
 - Resource dependency management
 - CI/CD pipeline integration with GitHub Actions
+- Remote state management with Azure Storage
 
 ## Future Enhancements
-- Remote state management with Azure Storage
 - Additional modules (compute, databases)
 - Multi-region deployment support
