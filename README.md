@@ -53,9 +53,9 @@ terraform apply
 - Azure networking fundamentals
 - Infrastructure-as-Code best practices
 - Resource dependency management
+- CI/CD pipeline integration with GitHub Actions
 
 ## Future Enhancements
 - Remote state management with Azure Storage
-- CI/CD pipeline integration
 - Additional modules (compute, databases)
 - Multi-region deployment support
